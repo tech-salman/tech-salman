@@ -4,7 +4,7 @@
 ```
 ╔═══════════════════════════════════════════════════════════════════╗
 ║                                                                   ║
-║                    👨‍💻 TECH-SALMAN | DEV PROFILE 🚀                ║
+║                    👨‍💻 TECH-SALMAN | DEV PROFILE 🚀               ║
 ║                                                                   ║
 ║                    [ FUTURISTIC CODE EXPLORER ]                   ║
 ║                                                                   ║
